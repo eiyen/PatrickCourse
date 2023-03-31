@@ -1,0 +1,15 @@
+{
+  "name": "hardhat_fundme",
+  "version": "1.0.0",
+  "description": "https://github.com/smartcontractkit/full-blockchain-solidity-course-js#lesson-7-hardhat-fund-me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.13.0",
+    "solhint": "^3.4.1"
+  }
+}
