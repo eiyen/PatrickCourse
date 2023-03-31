@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+# Lesson7: Hardhat FoudMe
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## Problems
 
-Try running some of the following tasks:
+Failed to use `solhint` to lint contracts. It just returned a blank line:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+![blank_output_of_solhint](./assets/Solhint_failed_to_output.png)
